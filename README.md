@@ -141,5 +141,5 @@ Project ini dibuat sebagai latihan pengembangan aplikasi web menggunakan **Larav
 
 ## 👨‍💻 Author
 
-**Farel (Kishi)**
+**Satria Farel (Kishi)**
 Student & Web Developer
